@@ -1,1 +1,3 @@
-# auto_tuner
+
+Auto Tune implementation for dsPIC33F
+
